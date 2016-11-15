@@ -24,6 +24,8 @@ def cos(x):
         return 1
     else:
         return False
+def tan(x):
+    return sin(x) cos(x)
 
 print(sin(45))
 print(cos(30))
