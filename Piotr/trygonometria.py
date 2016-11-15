@@ -12,4 +12,6 @@ def sin(x):
     else:
         return False
 
+print(sin(45))
+
     
