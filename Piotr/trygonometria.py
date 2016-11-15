@@ -26,6 +26,6 @@ def cos(x):
         return False
 
 print(sin(45))
-print(cos(45))
+print(cos(30))
 
     
